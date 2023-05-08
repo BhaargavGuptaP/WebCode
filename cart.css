@@ -9,12 +9,24 @@ body::-webkit-scrollbar {
   display: none;
 }
 .summa{
-  display: inline-flex;
+  display: flex;
+  width: 100%;
+}
+.logo{
+  margin-left: 100px;
+  margin-top: 10px;
 }
 .navi1{
+  width: 100%;
+  justify-content: space-between;
+  display: inline-flex;
+}
+.navi1 ul{
+  margin-top: 40px;
   display: inline-flex;
 }
 .navi1 ul li{
+  margin-right: 30px;
   list-style: none;
 }
 .clearfix {
