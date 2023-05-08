@@ -2,7 +2,7 @@ body,
 html {
     overflow-x: hidden;
     box-sizing: border-box;
-    background-image: url("https://s01.sgp1.digitaloceanspaces.com/large/854655-27335-fvqokskxtx-1508390029.jpg");
+    background-image: url("Frame\ 6.png");
     background-color: #d26f6f;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -14,9 +14,10 @@ html {
 }
 
 header {
-    background-image: url("https://s01.sgp1.digitaloceanspaces.com/large/854655-27335-fvqokskxtx-1508390029.jpg");
+    background-image: url("Frame\ 6.png");
     background-color: #d26f6f;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    
 }
