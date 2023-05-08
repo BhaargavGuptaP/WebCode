@@ -212,7 +212,7 @@ body::before {
 .box1 form .links a:nth-child(2) {
   color: white;
 }
-.box1 form button[type="submit"] {
+.box1 form button {
   border: none;
   outline: none;
   padding: 9px 25px;
@@ -224,6 +224,6 @@ body::before {
   width: 120px;
   margin-top: 10px;
 }
-.box1 form button[type="submit"]:active {
+.box1 form button:active {
   opacity: 0.8;
 }
